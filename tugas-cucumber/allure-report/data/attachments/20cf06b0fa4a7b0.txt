@@ -1,0 +1,12 @@
+.........Console Logs.........
+
+{
+  property: 'background-color',
+  value: 'rgba(70,130,180,1)',
+  parsed: {
+    hex: '#4682b4',
+    alpha: 1,
+    type: 'color',
+    rgba: 'rgba(70,130,180,1)'
+  }
+}
